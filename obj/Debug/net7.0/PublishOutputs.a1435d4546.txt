@@ -1,0 +1,5 @@
+/home/x/Desktop/College 4/HPC/Algorithms Visualization/bin/Debug/net7.0/publish/Algorithms Visualization
+/home/x/Desktop/College 4/HPC/Algorithms Visualization/bin/Debug/net7.0/publish/Algorithms Visualization.dll
+/home/x/Desktop/College 4/HPC/Algorithms Visualization/bin/Debug/net7.0/publish/Algorithms Visualization.deps.json
+/home/x/Desktop/College 4/HPC/Algorithms Visualization/bin/Debug/net7.0/publish/Algorithms Visualization.runtimeconfig.json
+/home/x/Desktop/College 4/HPC/Algorithms Visualization/bin/Debug/net7.0/publish/Algorithms Visualization.pdb

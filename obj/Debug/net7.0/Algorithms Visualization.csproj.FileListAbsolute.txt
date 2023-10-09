@@ -1,0 +1,30 @@
+/home/x/Desktop/Algorithms Visualization/obj/Debug/net7.0/Algorithms Visualization.csproj.AssemblyReference.cache
+/home/x/Desktop/Algorithms Visualization/obj/Debug/net7.0/Algorithms Visualization.GeneratedMSBuildEditorConfig.editorconfig
+/home/x/Desktop/Algorithms Visualization/obj/Debug/net7.0/Algorithms Visualization.AssemblyInfoInputs.cache
+/home/x/Desktop/Algorithms Visualization/obj/Debug/net7.0/Algorithms Visualization.AssemblyInfo.cs
+/home/x/Desktop/Algorithms Visualization/obj/Debug/net7.0/Algorithms Visualization.csproj.CoreCompileInputs.cache
+/home/x/Desktop/Algorithms Visualization/bin/Debug/net7.0/Algorithms Visualization
+/home/x/Desktop/Algorithms Visualization/bin/Debug/net7.0/Algorithms Visualization.deps.json
+/home/x/Desktop/Algorithms Visualization/bin/Debug/net7.0/Algorithms Visualization.runtimeconfig.json
+/home/x/Desktop/Algorithms Visualization/bin/Debug/net7.0/Algorithms Visualization.dll
+/home/x/Desktop/Algorithms Visualization/bin/Debug/net7.0/Algorithms Visualization.pdb
+/home/x/Desktop/Algorithms Visualization/obj/Debug/net7.0/Algorithms Visualization.dll
+/home/x/Desktop/Algorithms Visualization/obj/Debug/net7.0/refint/Algorithms Visualization.dll
+/home/x/Desktop/Algorithms Visualization/obj/Debug/net7.0/Algorithms Visualization.pdb
+/home/x/Desktop/Algorithms Visualization/obj/Debug/net7.0/Algorithms Visualization.genruntimeconfig.cache
+/home/x/Desktop/Algorithms Visualization/obj/Debug/net7.0/ref/Algorithms Visualization.dll
+/home/x/Desktop/College 4/HPC/Algorithms Visualization/bin/Debug/net7.0/Algorithms Visualization
+/home/x/Desktop/College 4/HPC/Algorithms Visualization/bin/Debug/net7.0/Algorithms Visualization.deps.json
+/home/x/Desktop/College 4/HPC/Algorithms Visualization/bin/Debug/net7.0/Algorithms Visualization.runtimeconfig.json
+/home/x/Desktop/College 4/HPC/Algorithms Visualization/bin/Debug/net7.0/Algorithms Visualization.dll
+/home/x/Desktop/College 4/HPC/Algorithms Visualization/bin/Debug/net7.0/Algorithms Visualization.pdb
+/home/x/Desktop/College 4/HPC/Algorithms Visualization/obj/Debug/net7.0/Algorithms Visualization.csproj.AssemblyReference.cache
+/home/x/Desktop/College 4/HPC/Algorithms Visualization/obj/Debug/net7.0/Algorithms Visualization.GeneratedMSBuildEditorConfig.editorconfig
+/home/x/Desktop/College 4/HPC/Algorithms Visualization/obj/Debug/net7.0/Algorithms Visualization.AssemblyInfoInputs.cache
+/home/x/Desktop/College 4/HPC/Algorithms Visualization/obj/Debug/net7.0/Algorithms Visualization.AssemblyInfo.cs
+/home/x/Desktop/College 4/HPC/Algorithms Visualization/obj/Debug/net7.0/Algorithms Visualization.csproj.CoreCompileInputs.cache
+/home/x/Desktop/College 4/HPC/Algorithms Visualization/obj/Debug/net7.0/Algorithms Visualization.dll
+/home/x/Desktop/College 4/HPC/Algorithms Visualization/obj/Debug/net7.0/refint/Algorithms Visualization.dll
+/home/x/Desktop/College 4/HPC/Algorithms Visualization/obj/Debug/net7.0/Algorithms Visualization.pdb
+/home/x/Desktop/College 4/HPC/Algorithms Visualization/obj/Debug/net7.0/Algorithms Visualization.genruntimeconfig.cache
+/home/x/Desktop/College 4/HPC/Algorithms Visualization/obj/Debug/net7.0/ref/Algorithms Visualization.dll
